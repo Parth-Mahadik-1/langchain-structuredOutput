@@ -76,7 +76,7 @@ Replace the placeholders below with your actual screenshot paths after uploading
 ### 2️ LangChain Core StrOutputParser function
   
 <p align="center">
-  <img src= />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-structuredOutput/blob/main/normal%20str%20output.png" />
 </p>
 
 ---
