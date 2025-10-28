@@ -84,7 +84,7 @@ Replace the placeholders below with your actual screenshot paths after uploading
 ### 3️ JsonOutputParser
   
 <p align="center">
-  <img src= />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-structuredOutput/blob/main/pydantic%20ouput%20.png" />
 </p>
 
 ---
@@ -96,3 +96,32 @@ Replace the placeholders below with your actual screenshot paths after uploading
 </p>
 
 ---
+
+### Key Learnings
+
+How LangChain manages structured data extraction
+
+How output parsers enforce schema validation
+
+Integration of open-source models with structured parsing
+
+Differences between raw LLM output and parsed output
+
+---
+
+### Tech Stack
+
+Language: Python
+
+Library: LangChain
+
+Models: Open-source Hugging Face models
+
+Format Tools: Pydantic, TypedDict, JSON
+
+---
+
+### Author
+
+# Parth Mahadik <br>
+BSc Data Science Student | Passionate about Machine Learning & AI
