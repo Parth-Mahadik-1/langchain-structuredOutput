@@ -68,7 +68,7 @@ Replace the placeholders below with your actual screenshot paths after uploading
 ### 1️  Normal StrOutputParser using result.content
   
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Parth-Mahadik-1/langchain-structuredOutput/blob/main/normal%20str%20output.png" />
 </p>
 
 ---
