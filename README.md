@@ -65,5 +65,34 @@ output
 Below are the four main demonstrations with their outputs.
 Replace the placeholders below with your actual screenshot paths after uploading them to the screenshots/ folder.
 
-##1)Normal StrOutputParser using result.content:
+### 1️  Normal StrOutputParser using result.content
+  
+<p align="center">
+  <img src="" />
+</p>
 
+---
+
+### 2️ LangChain Core StrOutputParser function
+  
+<p align="center">
+  <img src= />
+</p>
+
+---
+
+### 3️ JsonOutputParser
+  
+<p align="center">
+  <img src= />
+</p>
+
+---
+
+### 4 PydanticOutputParser
+  
+<p align="center">
+  <img src= />
+</p>
+
+---
